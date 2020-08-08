@@ -10,15 +10,17 @@ Advanced Excel,bootstraping,bagging,boosting,Stratified sampling ,random samplin
 
 
 ### Publications
-Some of publications which you can read for knowledge are as below.
+Some of my publications which you can have glance!!
 
-#### -[Big Data Vs Small Data: How Much DATA is Big Enough? Power Analysis](https://medium.com/@vinayak_navale/big-data-vs-small-data-how-much-data-is-big-enough-32e50103d0d4)
+#### 1.[Big Data Vs Small Data: How Much DATA is Big Enough? Power Analysis](https://medium.com/@vinayak_navale/big-data-vs-small-data-how-much-data-is-big-enough-32e50103d0d4)
 
-#### -[Learn Python](https://medium.com/@vinayak_navale/learn-python-b40e55102b02)
+#### 2.[Learn Python](https://medium.com/@vinayak_navale/learn-python-b40e55102b02)
 
-#### -[Building Customer Churn Predictive Model Using SPARK](https://medium.com/@vinayak_navale/building-customer-churn-predictive-model-using-spark-213a4d641923)
+#### 3.[Building Customer Churn Predictive Model Using SPARK](https://medium.com/@vinayak_navale/building-customer-churn-predictive-model-using-spark-213a4d641923)
 
-#### -[ARE You fed up with Too Many Ad’s On Websites\Mobile?](https://medium.com/@vinayak_navale/mean-mode-median-measure-of-central-tendency-cf996948fc3f)
+#### 4.[ARE You fed up with Too Many Ad’s On Websites\Mobile?](https://medium.com/@vinayak_navale/are-you-fed-up-with-too-many-ads-on-websites-mobile-80df2f1d3175)
+
+#### 5.[Mean Mode & Median -Measure of Central tendency](https://medium.com/@vinayak_navale/mean-mode-median-measure-of-central-tendency-cf996948fc3f)
 
 
 
