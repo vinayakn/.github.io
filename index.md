@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome To My Profile
 
-You can use the [editor on GitHub](https://github.com/vinayakn/vinayakn.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can visit [Linkedin](https://in.linkedin.com/in/vinayak-navale-47469913) to know more about my work experiance and expertise.
 
-### Markdown
+**My Expertise is in Following Areas:** Advanced Excel,bootstraping,bagging,boosting,Stratified sampling ,random sampling,out of bag error,ensemble methods,Hypothesis Testing,Model Building,Clustering,Association Rule,Linear and Logistic Regression Modeling,Statistical Analysis,Suprivised & Unsuprivised Models,AI & Deep Learning (CNN,RNN),Time Series Models, Forecasting,Clustering,Naive Baysian Algortims,Recommendation Algorithm,DataMining,Machine Learning,Deep Learning,Algorithms,PowerBI, D3.js Visualization,SQL/PlSql (OCA Certified),CQL,Teradata SQL,My SQL,Big Data,Hadoop Map Reduce,UDF,Hive SQL,Mongo DB No-Sql,Mongo Aggregation Frame Work,Mongo Mapreduce,Python,Elastic Search,Python-Pandas,ARIMA Model,Spark Cluster ,Deep learning,keras, Spark-ML,Redis,Computing,Unix/Linux(awk,grep,sed),Shell Scripting,Perl Scripts,Excel Macros,SAS,R,CRM,Email Marketing,Web Analytics,SCM,BigData Analytics,Research,Druid Rest based Querying,Big Data Crunching,Tableau, Parallel Processing,Threading,data structure,elasticsearch,cloud computing platform(iaas, paas,SaaS),(Aws, Azure,GCP), scala,Unit Testing,cosmo db,etc
+### Publications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Some of publications which you can read for knowledge are as below.
 
 ```markdown
-Syntax highlighted code block
+# Big Data Vs Small Data: How Much DATA is Big Enough? Power Analysis
 
-# Header 1
-## Header 2
-### Header 3
+# “Learn Python"
 
-- Bulleted
-- List
+# Building Customer Churn Predictive Model Using SPARK
 
-1. Numbered
-2. List
+# ARE You fed up with Too Many Ad’s On Websites\Mobile?
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vinayakn/vinayakn.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
