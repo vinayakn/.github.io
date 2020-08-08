@@ -1,3 +1,9 @@
 ---
 ---
 @import "{{ site.theme }}";
+
+.info {
+  padding: 20px;
+  background-color: #f44886;
+  color: white;
+}
