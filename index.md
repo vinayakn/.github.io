@@ -10,10 +10,10 @@ Advanced Excel,bootstraping,bagging,boosting,Stratified sampling ,random samplin
 
 
 ### Publications
-
-Some of publications which you can read for knowledge are as below.
-
 ```markdown 
+Some of publications which you can read for knowledge are as below.
+```
+
 #### [Big Data Vs Small Data: How Much DATA is Big Enough? Power Analysis](https://medium.com/@vinayak_navale/big-data-vs-small-data-how-much-data-is-big-enough-32e50103d0d4)
 
 #### [Learn Python](https://medium.com/@vinayak_navale/learn-python-b40e55102b02)
@@ -22,5 +22,5 @@ Some of publications which you can read for knowledge are as below.
 
 #### ARE You fed up with Too Many Ad’s On Websites\Mobile?
 
-```
+
 
