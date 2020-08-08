@@ -10,9 +10,10 @@ Some of publications which you can read for knowledge are as below.
 
 ```markdown
 # Big Data Vs Small Data: How Much DATA is Big Enough? Power Analysis
-[Medium](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fmedium%2Ecom%2F%40vinayak_navale%2Fbig-data-vs-small-data-how-much-data-is-big-enough-32e50103d0d4&amp;urlhash=mY8K&trk=public_profile_publication-button)
+[Medium](https://medium.com/@vinayak_navale/big-data-vs-small-data-how-much-data-is-big-enough-32e50103d0d4)
 
 # “Learn Python"
+[Medium](https://medium.com/@vinayak_navale/learn-python-b40e55102b02)
 
 # Building Customer Churn Predictive Model Using SPARK
 
